@@ -1,7 +1,7 @@
 {
     'name': 'Odoo Academy'
     'summary': 'Academy app to manage training',
-    'description': 'Academy :v',
+    'description': """:v""",
     'author': 'Alberto',
     'website': 'https://www.odoo.com',
     'category': 'Training',
