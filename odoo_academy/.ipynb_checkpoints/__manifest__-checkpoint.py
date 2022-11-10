@@ -1,5 +1,5 @@
 {
-    'name': 'Odoo Academy',
+    'name': 'Odoo Academy'
     'summary': 'Academy app to manage training',
     'description': 'Academy :v',
     'author': 'Alberto',
